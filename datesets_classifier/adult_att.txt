@@ -1,0 +1,15 @@
+age value
+workclass categorical
+fnlwgt value
+education categorical
+education-num value
+marital-status categorical
+occupation categorical
+relationship categorical
+race categorical
+sex categorical
+capital-gain value
+capital-loss value
+hours-per-week value
+country categorical
+class categorical

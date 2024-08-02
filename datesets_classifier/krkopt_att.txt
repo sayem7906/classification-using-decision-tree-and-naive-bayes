@@ -1,0 +1,7 @@
+wkf categorical
+wkr categorical
+wrf categorical
+wrr categorical
+bkf categorical
+bkr categorical
+class categorical

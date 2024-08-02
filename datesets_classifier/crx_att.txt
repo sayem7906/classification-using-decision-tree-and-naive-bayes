@@ -1,0 +1,16 @@
+a1 categorical
+a2 value
+a3 value
+a4 categorical
+a5 categorical
+a6 categorical
+a7 categorical
+a8 value
+a9 categorical
+a10 categorical
+a11 value
+a12 categorical
+a13 categorical
+a14 value
+a15 value
+class categorical

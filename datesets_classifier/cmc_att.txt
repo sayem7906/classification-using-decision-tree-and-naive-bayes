@@ -1,0 +1,10 @@
+age value
+education categorical
+hus_edu categorical
+children value
+religion categorical
+working categorical
+hus_occupation categorical
+standard categorical
+media categorical
+class categorical
